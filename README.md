@@ -5,9 +5,7 @@
 ![Sarfraz-Baloch](https://img.shields.io/badge/Sarfraz%20-Baloch-green?style=for-the-badge&logo=appveyor)
  
 ![GitHub followers](https://img.shields.io/github/followers/Sarfraz-Baloch?style=for-the-badge)
-![Facebook Follow](https://img.shields.io/facebook/follow/Sarfraz-Baloch?color=%23ff128c&label=%40Sarfraz&style=for-the-badge)
 
- 
 pkg update
 
 pkg upgrade
